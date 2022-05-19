@@ -1,18 +1,6 @@
 ![WhatsApp Image 2022-05-18 at 23 19 42](https://user-images.githubusercontent.com/85132779/169193590-12eda5e4-9829-4c9d-bff2-b34391f223a6.jpeg)
 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Soares</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Matheus-9&color=yellow" alt="Profile views" /> </p>
-
-- 🔥 Estudante de Tecnologia em Sistema para Internet
-
-- 💬 Ask me about **...**
-
-
-
-<br><br>
-
 ## 🛠 Estudando!
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -23,16 +11,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
-<br><br>
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Matheus-9&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-9&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=Matheus-9&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-9&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
-<br><br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
